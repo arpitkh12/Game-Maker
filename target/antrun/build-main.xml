@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="/Users/arpitkhandelwal/git/team1/target/jnlp/fall2016_a6_team1-0.1.jar" toDir="/u/kspace/www/fluency/student-files/fall2016/a6/fall2016_a6_team1"/>
+  <copy file="/Users/arpitkhandelwal/git/team1/target/jnlp/launch.jnlp" toDir="/u/kspace/www/fluency/student-files/fall2016/a6/fall2016_a6_team1"/>
+</target>
+</project>
